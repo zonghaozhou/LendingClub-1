@@ -1,4 +1,3 @@
-# LendingClub
 
 # LendingClub
 
